@@ -40,12 +40,12 @@
 
 <hr>
 
-- 🔭 I'm currently working with @mercurieinc
+- 🔭 I'm currently an intermediate software engineer at Avalanche Insights
 - 💻 Currently loooking for my next challenge
-- ☀️ Building enterprise applications in Go.
-- 👯 I'm looking to collaborate on anything involving python, golang and javascript
+- ☀️ Building web and mobile applications in React, React Native, Django and NodeJs.
+- 👯 I am interested to collaborate on anything involving React, python, Java, and javascript
 - 💬 Ask me about anything related to technology and I have something to say or tell you I don't know
-- 📫 Reach me via [Email](mailto:kalycodes@gmail.com?subject=From%20github)
+- 📫 Reach me via [Email](mailto:byusa.serge@gmail.com?subject=From%20github)
 
 
 
