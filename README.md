@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A software engineer from the world.
+  A senior software engineer from the world.
 </p>
 
 
@@ -41,8 +41,9 @@
 
 <hr>
 
-- 🔭 I'm currently an intermediate software engineer at Avalanche Insights
+- 🔭 I'm currently an senior software engineer at Huawei
 - 💻 Currently loooking for my next challenge
+- 💻  Experienced full stack engineer, Machine learning engineer with DevOps experience. 
 - ☀️ Building web and mobile applications in React, React Native, Django and NodeJs.
 - 👯 I am interested to collaborate on anything involving React, python, Java, and javascript
 - 💬 Ask me about anything related to technology and I have something to say or tell you I don't know
